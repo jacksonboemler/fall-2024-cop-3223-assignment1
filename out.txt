@@ -1,0 +1,16 @@
+
+Point #1 entered: x1 = 1.000; y1 = 2.000
+Point #2 entered: x2 = 2.000; y2 = 4.000
+The distance between the two points is 1.414
+Point #1 entered: x1 = 1.000; y1 = 2.000
+Point #2 entered: x2 = 2.000; y2 = 4.000
+The perimeter of the city encompassed by your request is 4.443
+Point #1 entered: x1 = 1.000; y1 = 2.000
+Point #2 entered: x2 = 2.000; y2 = 4.000
+The area of the city encompassed by your request is 1.571
+Point #1 entered: x1 = 1.000; y1 = 2.000
+Point #2 entered: x2 = 2.000; y2 = 4.000
+The width of the city encompassed by your request is 1.000
+Point #1 entered: x1 = 1.000; y1 = 2.000
+Point #2 entered: x2 = 2.000; y2 = 4.000
+The height of the city encompassed by your request is 1.000
